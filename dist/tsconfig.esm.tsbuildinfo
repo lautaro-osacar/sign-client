@@ -1,0 +1,2623 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "signature": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "signature": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "9affb0a2ddc57df5b8174c0af96c288d697a262e5bc9ca1f544c999dc64a91e6",
+        "signature": "9affb0a2ddc57df5b8174c0af96c288d697a262e5bc9ca1f544c999dc64a91e6",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "signature": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "d0db416bccdb33975548baf09a42ee8c47eace1aac7907351a000f1e568e7232",
+        "signature": "d0db416bccdb33975548baf09a42ee8c47eace1aac7907351a000f1e568e7232",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "signature": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "signature": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "signature": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "signature": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+        "version": "4f435f794b7853c55e2ae7cff6206025802aa79232d2867544178f2ca8ff5eaa",
+        "signature": "4f435f794b7853c55e2ae7cff6206025802aa79232d2867544178f2ca8ff5eaa",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "signature": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/tslib/tslib.d.ts": {
+        "version": "4576b4e61049f5ffd7c9e935cf88832e089265bdb15ffc35077310042cbbbeea",
+        "signature": "4576b4e61049f5ffd7c9e935cf88832e089265bdb15ffc35077310042cbbbeea",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/assert.d.ts": {
+        "version": "4c2c4f53e8eedd970f8afa369d7371544fb6231bf95e659f8602e09abe74d5a5",
+        "signature": "4c2c4f53e8eedd970f8afa369d7371544fb6231bf95e659f8602e09abe74d5a5",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/globals.d.ts": {
+        "version": "32ddf2b046fa7269050f64a87f1f3d2db10b92ad6302460681915af1207b1222",
+        "signature": "32ddf2b046fa7269050f64a87f1f3d2db10b92ad6302460681915af1207b1222",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/async_hooks.d.ts": {
+        "version": "c2b5085f47e41d6940bbc5b0d3bd7cc0037c752efb18aecd243c9cf83ad0c0b7",
+        "signature": "c2b5085f47e41d6940bbc5b0d3bd7cc0037c752efb18aecd243c9cf83ad0c0b7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/buffer.d.ts": {
+        "version": "3143a5add0467b83150961ecd33773b561a1207aec727002aa1d70333068eb1b",
+        "signature": "3143a5add0467b83150961ecd33773b561a1207aec727002aa1d70333068eb1b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/child_process.d.ts": {
+        "version": "9b2a8f604e7c0482a9061755f00b287cc99bd8718dc82d8207dd74c599b6dc43",
+        "signature": "9b2a8f604e7c0482a9061755f00b287cc99bd8718dc82d8207dd74c599b6dc43",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/cluster.d.ts": {
+        "version": "d0fc76a91c828fbe3f0be5d683273634b7b101068333ceed975a8a9ac464137b",
+        "signature": "d0fc76a91c828fbe3f0be5d683273634b7b101068333ceed975a8a9ac464137b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/console.d.ts": {
+        "version": "1a048ff164b8d9609f5de3139d4e37f6e8a82af82087ac414b9208f52ef8aac7",
+        "signature": "1a048ff164b8d9609f5de3139d4e37f6e8a82af82087ac414b9208f52ef8aac7",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/constants.d.ts": {
+        "version": "3111079f3cb5f2b9c812ca3f46161562bce5bfb355e915f46ed46c41714dc1c3",
+        "signature": "3111079f3cb5f2b9c812ca3f46161562bce5bfb355e915f46ed46c41714dc1c3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/crypto.d.ts": {
+        "version": "50ae84dc0183f9f69b4d0933e240fb76cc77fddb2ec223dd070d12420b6ccfa6",
+        "signature": "50ae84dc0183f9f69b4d0933e240fb76cc77fddb2ec223dd070d12420b6ccfa6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/dgram.d.ts": {
+        "version": "b32b6b16cb0bda68199582ad6f22242d07ee75fac9b1f28a98cd838afc5eea45",
+        "signature": "b32b6b16cb0bda68199582ad6f22242d07ee75fac9b1f28a98cd838afc5eea45",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/dns.d.ts": {
+        "version": "4441ee4119824bfaebc49308559edd7545978f9cb41a40f115074e1031dde75f",
+        "signature": "4441ee4119824bfaebc49308559edd7545978f9cb41a40f115074e1031dde75f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/domain.d.ts": {
+        "version": "60693a88462d0e97900123b5bf7c73e146ce0cc94da46a61fe6775b430d2ff05",
+        "signature": "60693a88462d0e97900123b5bf7c73e146ce0cc94da46a61fe6775b430d2ff05",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/events.d.ts": {
+        "version": "588c69eda58b9202676ec7ca11a72c3762819b46a0ed72462c769846153c447c",
+        "signature": "588c69eda58b9202676ec7ca11a72c3762819b46a0ed72462c769846153c447c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/fs.d.ts": {
+        "version": "ae064ed4f855716b7ff348639ddcd6a6d354a72fae82f506608a7dc9266aa24c",
+        "signature": "ae064ed4f855716b7ff348639ddcd6a6d354a72fae82f506608a7dc9266aa24c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/fs/promises.d.ts": {
+        "version": "8e63e656267f767e6c15b47776f641d30ef29690581ab9bdddff5b83885d1a43",
+        "signature": "8e63e656267f767e6c15b47776f641d30ef29690581ab9bdddff5b83885d1a43",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/http.d.ts": {
+        "version": "53d2c24a3cbc00a88ebaf8ab8e1b6e206bc3a6647d544f877241684ea3d484e3",
+        "signature": "53d2c24a3cbc00a88ebaf8ab8e1b6e206bc3a6647d544f877241684ea3d484e3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/http2.d.ts": {
+        "version": "ecee890ff04b70d8e8815fb753c20f24f95203426267a577823d375009c1ace7",
+        "signature": "ecee890ff04b70d8e8815fb753c20f24f95203426267a577823d375009c1ace7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/https.d.ts": {
+        "version": "0ce99c641ea20b0c0c09d093fc28f18f5ab31dc80033707a1ac3154399de2559",
+        "signature": "0ce99c641ea20b0c0c09d093fc28f18f5ab31dc80033707a1ac3154399de2559",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/inspector.d.ts": {
+        "version": "7dc9ed91e245cf0c4f8add7f6845d0cb08cceec4408ce3398c51e1f6dd7679ec",
+        "signature": "7dc9ed91e245cf0c4f8add7f6845d0cb08cceec4408ce3398c51e1f6dd7679ec",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/module.d.ts": {
+        "version": "44e42ed6ec9c4451ebe89524e80ac8564e9dd0988c56e6c58f393c810730595d",
+        "signature": "44e42ed6ec9c4451ebe89524e80ac8564e9dd0988c56e6c58f393c810730595d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/net.d.ts": {
+        "version": "d79fda68cbfb361c4ee9cd9ea169babb65887534d64017726cd01f54783d20a5",
+        "signature": "d79fda68cbfb361c4ee9cd9ea169babb65887534d64017726cd01f54783d20a5",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/os.d.ts": {
+        "version": "1606ea615c0a5ea9f5c1376a33e34c0e1112e8dee31a5b3b8a74ce781893aa6f",
+        "signature": "1606ea615c0a5ea9f5c1376a33e34c0e1112e8dee31a5b3b8a74ce781893aa6f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/path.d.ts": {
+        "version": "9fef9de633d01cb7f01f68195626a890ededd25cf96a1e785617d08c8668230d",
+        "signature": "9fef9de633d01cb7f01f68195626a890ededd25cf96a1e785617d08c8668230d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "4455c78d226d061b1203c7614c6c6eb5f4f9db5f00d44ff47d0112de8766fbc4",
+        "signature": "4455c78d226d061b1203c7614c6c6eb5f4f9db5f00d44ff47d0112de8766fbc4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/process.d.ts": {
+        "version": "ec369bb9d97c4dc09dd2a4093b7ca3ba69ad284831fccac8a1977785e9e38ce5",
+        "signature": "ec369bb9d97c4dc09dd2a4093b7ca3ba69ad284831fccac8a1977785e9e38ce5",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/punycode.d.ts": {
+        "version": "4465a636f5f6e9665a90e30691862c9e0a3ac2edc0e66296704f10865e924f2a",
+        "signature": "4465a636f5f6e9665a90e30691862c9e0a3ac2edc0e66296704f10865e924f2a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/querystring.d.ts": {
+        "version": "9af781f03d44f5635ed7844be0ce370d9d595d4b4ec67cad88f0fac03255257e",
+        "signature": "9af781f03d44f5635ed7844be0ce370d9d595d4b4ec67cad88f0fac03255257e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/readline.d.ts": {
+        "version": "f9fd4c3ef6de27fa0e256f4e75b61711c4be05a3399f7714621d3edc832e36b0",
+        "signature": "f9fd4c3ef6de27fa0e256f4e75b61711c4be05a3399f7714621d3edc832e36b0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/repl.d.ts": {
+        "version": "e49290b7a927995c0d7e6b2b9c8296284b68a9036d9966531de65185269258d7",
+        "signature": "e49290b7a927995c0d7e6b2b9c8296284b68a9036d9966531de65185269258d7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/stream.d.ts": {
+        "version": "c3689f70ce7563c2299f2dcb3c72efdf6f87ae510e7456fa6223c767d0ca99fc",
+        "signature": "c3689f70ce7563c2299f2dcb3c72efdf6f87ae510e7456fa6223c767d0ca99fc",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/string_decoder.d.ts": {
+        "version": "874ca809b79276460011480a2829f4c8d4db29416dd411f71efbf8f497f0ac09",
+        "signature": "874ca809b79276460011480a2829f4c8d4db29416dd411f71efbf8f497f0ac09",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/timers.d.ts": {
+        "version": "6c903bceaf3f3bc04f2d4c7dcd89ce9fb148b3ba0a5f5408d8f6de2b7eecc7ea",
+        "signature": "6c903bceaf3f3bc04f2d4c7dcd89ce9fb148b3ba0a5f5408d8f6de2b7eecc7ea",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/tls.d.ts": {
+        "version": "c65a0eeb867ff5c41debade8e2e8e63ec5367172d121afa726a598111d348816",
+        "signature": "c65a0eeb867ff5c41debade8e2e8e63ec5367172d121afa726a598111d348816",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/trace_events.d.ts": {
+        "version": "23a28f834a078986bbf58f4e3705956983ff81c3c2493f3db3e5f0e8a9507779",
+        "signature": "23a28f834a078986bbf58f4e3705956983ff81c3c2493f3db3e5f0e8a9507779",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/tty.d.ts": {
+        "version": "4febdf7f3ec92706c58e0b4e8159cd6de718284ef384260b07c9641c13fc70ce",
+        "signature": "4febdf7f3ec92706c58e0b4e8159cd6de718284ef384260b07c9641c13fc70ce",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/url.d.ts": {
+        "version": "eabefc2999c1489cf870e0c85af908900462fa245822d9a4616780a1a129945d",
+        "signature": "eabefc2999c1489cf870e0c85af908900462fa245822d9a4616780a1a129945d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/util.d.ts": {
+        "version": "7335933d9f30dcfd2c4b6080a8b78e81912a7fcefb1dafccb67ca4cb4b3ac23d",
+        "signature": "7335933d9f30dcfd2c4b6080a8b78e81912a7fcefb1dafccb67ca4cb4b3ac23d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/v8.d.ts": {
+        "version": "a6bfe9de9adef749010c118104b071d14943802ff0614732b47ce4f1c3e383cd",
+        "signature": "a6bfe9de9adef749010c118104b071d14943802ff0614732b47ce4f1c3e383cd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/vm.d.ts": {
+        "version": "4c3d0e10396646db4a1e917fb852077ee77ae62e512913bef9cccc2bb0f8bd0e",
+        "signature": "4c3d0e10396646db4a1e917fb852077ee77ae62e512913bef9cccc2bb0f8bd0e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/wasi.d.ts": {
+        "version": "3b220849d58140dcc6718f5b52dcd29fdb79c45bc28f561cbd29eb1cac6cce13",
+        "signature": "3b220849d58140dcc6718f5b52dcd29fdb79c45bc28f561cbd29eb1cac6cce13",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/worker_threads.d.ts": {
+        "version": "0ee22fce41f7417a24c808d266e91b850629113c104713a35854393d55994beb",
+        "signature": "0ee22fce41f7417a24c808d266e91b850629113c104713a35854393d55994beb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/zlib.d.ts": {
+        "version": "22d1b1d965baba05766613e2e6c753bb005d4386c448cafd72c309ba689e8c24",
+        "signature": "22d1b1d965baba05766613e2e6c753bb005d4386c448cafd72c309ba689e8c24",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/globals.global.d.ts": {
+        "version": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1",
+        "signature": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/index.d.ts": {
+        "version": "79d679a1d56574cc5cef92be1f0e5e8fb4af62fb55933b236670a0e0a23c83f6",
+        "signature": "79d679a1d56574cc5cef92be1f0e5e8fb4af62fb55933b236670a0e0a23c83f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/sonic-boom/types/index.d.ts": {
+        "version": "172f31b538f6e3f70c2d001d665d5a46c4b043f707ba822b4d906d59bd9c229d",
+        "signature": "172f31b538f6e3f70c2d001d665d5a46c4b043f707ba822b4d906d59bd9c229d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/pino-std-serializers/index.d.ts": {
+        "version": "799475c7b67b02267bd548418cd9a29a05c1f6484ae0a44dff74510374cbb585",
+        "signature": "799475c7b67b02267bd548418cd9a29a05c1f6484ae0a44dff74510374cbb585",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/pino-pretty/index.d.ts": {
+        "version": "9fb516ebe85470350609bb6bd3c38181bef2e64970aa2233391d5cb2bb096270",
+        "signature": "9fb516ebe85470350609bb6bd3c38181bef2e64970aa2233391d5cb2bb096270",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/pino/index.d.ts": {
+        "version": "685fbeeffdff5e703820a6328ef0c7b693d398bf8d061e1050e20344f8ddf47a",
+        "signature": "685fbeeffdff5e703820a6328ef0c7b693d398bf8d061e1050e20344f8ddf47a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/events/dist/cjs/events.d.ts": {
+        "version": "d14570d22f887cabca718688bae3927448a81eb1236eb4c172a8d107fbcf345a",
+        "signature": "d14570d22f887cabca718688bae3927448a81eb1236eb4c172a8d107fbcf345a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/events/dist/cjs/index.d.ts": {
+        "version": "e810cf9afcb9399bdd904986e82a68560ae6d8b797c241f8b124f8e3e4a10082",
+        "signature": "e810cf9afcb9399bdd904986e82a68560ae6d8b797c241f8b124f8e3e4a10082",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/types/heartbeat.d.ts": {
+        "version": "01f450b86efaa77df26db073a676a6f7a91c0dad3d7835c855fa3c00d7b52882",
+        "signature": "01f450b86efaa77df26db073a676a6f7a91c0dad3d7835c855fa3c00d7b52882",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/types/index.d.ts": {
+        "version": "592200d0fda21eed2f9aacf65cb7ec1b21ea093202ac84ef725e3098b07310a4",
+        "signature": "592200d0fda21eed2f9aacf65cb7ec1b21ea093202ac84ef725e3098b07310a4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/heartbeat.d.ts": {
+        "version": "056932970db144b8d89b42c937331e78ec27db0ca12f5485033e29f91626db8c",
+        "signature": "056932970db144b8d89b42c937331e78ec27db0ca12f5485033e29f91626db8c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/constants/heartbeat.d.ts": {
+        "version": "33c509291c65b0b1a32c0be34e5e2fe3dadfce23413b8ac1e3da15cab1217b73",
+        "signature": "33c509291c65b0b1a32c0be34e5e2fe3dadfce23413b8ac1e3da15cab1217b73",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/constants/index.d.ts": {
+        "version": "592200d0fda21eed2f9aacf65cb7ec1b21ea093202ac84ef725e3098b07310a4",
+        "signature": "592200d0fda21eed2f9aacf65cb7ec1b21ea093202ac84ef725e3098b07310a4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/index.d.ts": {
+        "version": "41a70f8d09d0d37307e53b582b839dde158543926d246d5a021b28449d5d1cc2",
+        "signature": "41a70f8d09d0d37307e53b582b839dde158543926d246d5a021b28449d5d1cc2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/types.d.ts": {
+        "version": "c0a8732b08567bd92624b09f5bb98a08af642b96df881eeda39912df4f511975",
+        "signature": "c0a8732b08567bd92624b09f5bb98a08af642b96df881eeda39912df4f511975",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/utils.d.ts": {
+        "version": "c349cd698e0b7154d4550183a76350edaee36b7cde9b3e5aa60e2f1ee7fdb425",
+        "signature": "c349cd698e0b7154d4550183a76350edaee36b7cde9b3e5aa60e2f1ee7fdb425",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/index.d.ts": {
+        "version": "09f8b50c8da72c66a720cf1866e07302e944c0140abe7c8349bcfbe70726ec85",
+        "signature": "09f8b50c8da72c66a720cf1866e07302e944c0140abe7c8349bcfbe70726ec85",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/node-js/index.d.ts": {
+        "version": "6b485e7f8c3af90875354b871034f514ec7814e0a4c8c2ec2543419318088937",
+        "signature": "6b485e7f8c3af90875354b871034f514ec7814e0a4c8c2ec2543419318088937",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/index.d.ts": {
+        "version": "ed0cdc2d4ad21f32c2c1b0e012523683983be598a402821b26112acbf173fa0a",
+        "signature": "ed0cdc2d4ad21f32c2c1b0e012523683983be598a402821b26112acbf173fa0a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/jsonrpc.d.ts": {
+        "version": "60eccda0fe20dd2d7e881687e6f1b5ae54765ff58cf495f4e2f7fae6038bb951",
+        "signature": "60eccda0fe20dd2d7e881687e6f1b5ae54765ff58cf495f4e2f7fae6038bb951",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/misc.d.ts": {
+        "version": "4b627d5cf853d831a19b7dfcf2c28cdbf65730c38d8ac1d1bb87ebebc8ffb359",
+        "signature": "4b627d5cf853d831a19b7dfcf2c28cdbf65730c38d8ac1d1bb87ebebc8ffb359",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/provider.d.ts": {
+        "version": "32ca4b9524e5720c7b1a700f16a1c9bd812316cace01d86d4733e83f9fb15885",
+        "signature": "32ca4b9524e5720c7b1a700f16a1c9bd812316cace01d86d4733e83f9fb15885",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/validator.d.ts": {
+        "version": "35366b6e559bbf23dcd58ca9557cf30bf7fda89eac58ad9d54ef450687c459fa",
+        "signature": "35366b6e559bbf23dcd58ca9557cf30bf7fda89eac58ad9d54ef450687c459fa",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts": {
+        "version": "2d87c7263363c8fd82e91e10c56396ed5d144967fdadb0f4d92ffc73841a9e56",
+        "signature": "2d87c7263363c8fd82e91e10c56396ed5d144967fdadb0f4d92ffc73841a9e56",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/core/keychain.d.ts": {
+        "version": "1f26522df7c818fc5ca3ebb12eda375a73d1a0264aa163bc3c6cf536ded274ae",
+        "signature": "1f26522df7c818fc5ca3ebb12eda375a73d1a0264aa163bc3c6cf536ded274ae",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/core/crypto.d.ts": {
+        "version": "2a0c0b2d117402f269feb5e7cbcb47e14c650a6b79bf2eec0301566f6719dc73",
+        "signature": "2a0c0b2d117402f269feb5e7cbcb47e14c650a6b79bf2eec0301566f6719dc73",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/core/messages.d.ts": {
+        "version": "f1af001fffb8a47526ae2c096bbfc56a647004d567c42acfb1a14736887f9edd",
+        "signature": "f1af001fffb8a47526ae2c096bbfc56a647004d567c42acfb1a14736887f9edd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/core/publisher.d.ts": {
+        "version": "0e45cbe89db0113a55b93fed6bc006a19e2093097ad01ffb4296a6ea5d35225a",
+        "signature": "0e45cbe89db0113a55b93fed6bc006a19e2093097ad01ffb4296a6ea5d35225a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/core/subscriber.d.ts": {
+        "version": "fc43d4ffcdb350a47be545bc2ac65fa511ef18839d290710b0f30adc8c06ed38",
+        "signature": "fc43d4ffcdb350a47be545bc2ac65fa511ef18839d290710b0f30adc8c06ed38",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts": {
+        "version": "38a337e58a6202703f775e859603c733d73f01a194ff4cec83d660d759ae5c0b",
+        "signature": "38a337e58a6202703f775e859603c733d73f01a194ff4cec83d660d759ae5c0b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts": {
+        "version": "0151468d86968ce24498628068e112b4984c5a39042f85b0c7dd6ad5584aa616",
+        "signature": "0151468d86968ce24498628068e112b4984c5a39042f85b0c7dd6ad5584aa616",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/core/history.d.ts": {
+        "version": "4bf1c3ae147a975993078981c90f1b507e302c13952db881c60dea52e25dd271",
+        "signature": "4bf1c3ae147a975993078981c90f1b507e302c13952db881c60dea52e25dd271",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts": {
+        "version": "92bc180393ce4f0d5d8ddd45c54574cc209e9b679cb91027c6c1d71f53552d1c",
+        "signature": "92bc180393ce4f0d5d8ddd45c54574cc209e9b679cb91027c6c1d71f53552d1c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/core/index.d.ts": {
+        "version": "ab056b9f89f64daa1c2b122e3f170d865ffab276e4b86dc0f9176e6fa87ae663",
+        "signature": "ab056b9f89f64daa1c2b122e3f170d865ffab276e4b86dc0f9176e6fa87ae663",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts": {
+        "version": "ad5f42e3712f8cfab57c30a967dbfddba2a13c46e187ada835079771e93e2d26",
+        "signature": "ad5f42e3712f8cfab57c30a967dbfddba2a13c46e187ada835079771e93e2d26",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts": {
+        "version": "e55291518028ac4e76f41e05f928d9d167d0af719c32919d817c913916e915c6",
+        "signature": "e55291518028ac4e76f41e05f928d9d167d0af719c32919d817c913916e915c6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/pairing.d.ts": {
+        "version": "29d140b4bc44fc65b4700eb476484682b49f31c617febc9c133241878ea3e2ec",
+        "signature": "29d140b4bc44fc65b4700eb476484682b49f31c617febc9c133241878ea3e2ec",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/jsonrpc.d.ts": {
+        "version": "93cc478d0087b7645ab60ac79d1da2ee0888328235b63d8f7ce960a22dc97ef8",
+        "signature": "93cc478d0087b7645ab60ac79d1da2ee0888328235b63d8f7ce960a22dc97ef8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/engine.d.ts": {
+        "version": "aac48caeea9ca717c29a2ab381c6ece5c0703da62bf08badab1babb9fa25f31f",
+        "signature": "aac48caeea9ca717c29a2ab381c6ece5c0703da62bf08badab1babb9fa25f31f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/expirer.d.ts": {
+        "version": "c8e64c3e16dd8c90f4774dfcbb67ea6f3f5c5d5dede2d6e0f869a5f42fe095d9",
+        "signature": "c8e64c3e16dd8c90f4774dfcbb67ea6f3f5c5d5dede2d6e0f869a5f42fe095d9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts": {
+        "version": "2356a05cc6eb3c881cce2b8a199457595e05319d1a309e0208e4c4fad81fad0e",
+        "signature": "2356a05cc6eb3c881cce2b8a199457595e05319d1a309e0208e4c4fad81fad0e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/index.d.ts": {
+        "version": "7e87d4f84b39396201dd9cb0fec193e2d498a36497dfc848ed5a0937ed8b8dc0",
+        "signature": "7e87d4f84b39396201dd9cb0fec193e2d498a36497dfc848ed5a0937ed8b8dc0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/types/dist/cjs/index.d.ts": {
+        "version": "87ed59b6a8df8efc3f0eaa35c8da0bf788f5510a128d3f62936f6af57edc7e41",
+        "signature": "87ed59b6a8df8efc3f0eaa35c8da0bf788f5510a128d3f62936f6af57edc7e41",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/core.d.ts": {
+        "version": "8af0e61065c9824fce38975c15ba548dc569b606b0ec7d465fbbc8c1a1d1f3bd",
+        "signature": "8af0e61065c9824fce38975c15ba548dc569b606b0ec7d465fbbc8c1a1d1f3bd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/constants/core.d.ts": {
+        "version": "09d8851aa4bf39b923c49bd2cf4c7aef59dcf50c83c204977a436db924cd1020",
+        "signature": "09d8851aa4bf39b923c49bd2cf4c7aef59dcf50c83c204977a436db924cd1020",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/constants/crypto.d.ts": {
+        "version": "f79c0dacfdd46c78d0e36bcd708d3cd9b0c479e243e6400b965273fb5f172e59",
+        "signature": "f79c0dacfdd46c78d0e36bcd708d3cd9b0c479e243e6400b965273fb5f172e59",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/constants/keychain.d.ts": {
+        "version": "c28582dc0ca1d41ee413d242e4c24685e4f5f877a228556e060fbf320138d2b7",
+        "signature": "c28582dc0ca1d41ee413d242e4c24685e4f5f877a228556e060fbf320138d2b7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/constants/messages.d.ts": {
+        "version": "5401b977b40227729e0aba190cf8c016a3974c72980a799249edd4e95498da76",
+        "signature": "5401b977b40227729e0aba190cf8c016a3974c72980a799249edd4e95498da76",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/constants/publisher.d.ts": {
+        "version": "15a411f701e2a9575993a6ce09d32624ffc795c53b17ed47729970153e77520d",
+        "signature": "15a411f701e2a9575993a6ce09d32624ffc795c53b17ed47729970153e77520d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/constants/relayer.d.ts": {
+        "version": "d64480d1cce61de27f08aa8ceedbe4742c46cf2e2da534c8740d5c546a322422",
+        "signature": "d64480d1cce61de27f08aa8ceedbe4742c46cf2e2da534c8740d5c546a322422",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/constants/store.d.ts": {
+        "version": "219ea1c2968237b6c3ee3b73b36ff6143a1f665df7971db00fc3758e95db09cf",
+        "signature": "219ea1c2968237b6c3ee3b73b36ff6143a1f665df7971db00fc3758e95db09cf",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/constants/subscriber.d.ts": {
+        "version": "5065e3666c05afbf0cc8134c173b6bcc8074ee4af9dfe49e5e1f647f6c943d07",
+        "signature": "5065e3666c05afbf0cc8134c173b6bcc8074ee4af9dfe49e5e1f647f6c943d07",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/constants/index.d.ts": {
+        "version": "a84dfcaa4c4c9789d1f36abda21559bf22724712252df805e19c6f70b2c55bc0",
+        "signature": "a84dfcaa4c4c9789d1f36abda21559bf22724712252df805e19c6f70b2c55bc0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/crypto.d.ts": {
+        "version": "1d3434eba5b4f0449cb287d24d9e115eba65cdf26c27073c2fdf1ea285370a32",
+        "signature": "1d3434eba5b4f0449cb287d24d9e115eba65cdf26c27073c2fdf1ea285370a32",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/messages.d.ts": {
+        "version": "310ba0aa8945b5c259e074adc22c5b7d5427062866871c10ac4b38b824ece851",
+        "signature": "310ba0aa8945b5c259e074adc22c5b7d5427062866871c10ac4b38b824ece851",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/constants.d.ts": {
+        "version": "3f19b01b25d8152c3f023a55b958071c39f29aecc3206d8b953ce22ed1afe2a7",
+        "signature": "3f19b01b25d8152c3f023a55b958071c39f29aecc3206d8b953ce22ed1afe2a7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts": {
+        "version": "cc8a7843f4b9f96ac5179ec3ee1ecd428dea0caa35c455cab1b3e7a73c740306",
+        "signature": "cc8a7843f4b9f96ac5179ec3ee1ecd428dea0caa35c455cab1b3e7a73c740306",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/error.d.ts": {
+        "version": "776084ff5d871a19ffe2992bc1f7318d0187e34e5a4a7da4eeb78bdf9501e621",
+        "signature": "776084ff5d871a19ffe2992bc1f7318d0187e34e5a4a7da4eeb78bdf9501e621",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/environment/dist/cjs/crypto.d.ts": {
+        "version": "612e990e85f99aa8f2329d6d4d755713a44bd5c2041b02baae19c3ed1523f1de",
+        "signature": "612e990e85f99aa8f2329d6d4d755713a44bd5c2041b02baae19c3ed1523f1de",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/environment/dist/cjs/env.d.ts": {
+        "version": "4a259c19075fb64b9c302da22c51feb14fb8ad0775a780fccbef6a9e6c082c63",
+        "signature": "4a259c19075fb64b9c302da22c51feb14fb8ad0775a780fccbef6a9e6c082c63",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/environment/dist/cjs/index.d.ts": {
+        "version": "54223032d8849dd76ec6087684f361e9973c8de9c643b6a9ace67c136b13a326",
+        "signature": "54223032d8849dd76ec6087684f361e9973c8de9c643b6a9ace67c136b13a326",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/env.d.ts": {
+        "version": "0ae96d34bca21bb9118f2a8269a625ba4eee909c5d14d475a2eef33cea431552",
+        "signature": "0ae96d34bca21bb9118f2a8269a625ba4eee909c5d14d475a2eef33cea431552",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/format.d.ts": {
+        "version": "a64827c354cc795199eac1e00447c407e0858f6941394e6896c2f6fb0017a67f",
+        "signature": "a64827c354cc795199eac1e00447c407e0858f6941394e6896c2f6fb0017a67f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/routing.d.ts": {
+        "version": "d8931c54a30eea4ecc0afec72a4c81af8ddfebbec5c424b58c30bc7d5cbacd6c",
+        "signature": "d8931c54a30eea4ecc0afec72a4c81af8ddfebbec5c424b58c30bc7d5cbacd6c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/url.d.ts": {
+        "version": "6ff08c4d0269c9df488ab989923859d733cc35ba0eb65ce146d80f0487445088",
+        "signature": "6ff08c4d0269c9df488ab989923859d733cc35ba0eb65ce146d80f0487445088",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/validators.d.ts": {
+        "version": "2e1cd25ab4b887717e27b7013d9b5f1ee1e21406f3bc60f6db06383839e6d35a",
+        "signature": "2e1cd25ab4b887717e27b7013d9b5f1ee1e21406f3bc60f6db06383839e6d35a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts": {
+        "version": "84b504a59014d3e72dd4113089825b496620eb0647c47d2e56eeb105319f95f2",
+        "signature": "84b504a59014d3e72dd4113089825b496620eb0647c47d2e56eeb105319f95f2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/relayer.d.ts": {
+        "version": "efba688ff4550792036f934b7fda018446fd039c9d59e0f568c21f068cdfeaa8",
+        "signature": "efba688ff4550792036f934b7fda018446fd039c9d59e0f568c21f068cdfeaa8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/store.d.ts": {
+        "version": "da6f93149f58b0a547ced2fb3e67e6b92bc588a96f1d1cfa58b4ebd2fee1d6cb",
+        "signature": "da6f93149f58b0a547ced2fb3e67e6b92bc588a96f1d1cfa58b4ebd2fee1d6cb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/topicmap.d.ts": {
+        "version": "aae079782ec9c1484cf597d84261a073f8b963fde81531c32fbccfce32c7b4dc",
+        "signature": "aae079782ec9c1484cf597d84261a073f8b963fde81531c32fbccfce32c7b4dc",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/subscriber.d.ts": {
+        "version": "d4591ebc5f7f4e364420c8c721f33d1aea2b6f2d1542da86094349e4f6063625",
+        "signature": "d4591ebc5f7f4e364420c8c721f33d1aea2b6f2d1542da86094349e4f6063625",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/keychain.d.ts": {
+        "version": "899566b6560067f646b24af9b261109b4c9162fbd47293697d226cddf9c98aea",
+        "signature": "899566b6560067f646b24af9b261109b4c9162fbd47293697d226cddf9c98aea",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/index.d.ts": {
+        "version": "1e46d9c51ae3ecb5a79350d8534988dce63708db8c96b96b2a75f293ce644ac3",
+        "signature": "1e46d9c51ae3ecb5a79350d8534988dce63708db8c96b96b2a75f293ce644ac3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/core/dist/cjs/index.d.ts": {
+        "version": "5bbe16e87d28491e81161cf4d06d73b0e66cc1e4bbcfd37b6b6fcdd5c85e17ef",
+        "signature": "5bbe16e87d28491e81161cf4d06d73b0e66cc1e4bbcfd37b6b6fcdd5c85e17ef",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/logger/dist/cjs/constants.d.ts": {
+        "version": "c0eae5327dc3451de01523ead013ba45fca64881cbce7ba6bc2ede133790f1c4",
+        "signature": "c0eae5327dc3451de01523ead013ba45fca64881cbce7ba6bc2ede133790f1c4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/logger/dist/cjs/utils.d.ts": {
+        "version": "3ea964c63fa36830341705d30ff4127245f9bd33d5d167eeabc31e07db774d7f",
+        "signature": "3ea964c63fa36830341705d30ff4127245f9bd33d5d167eeabc31e07db774d7f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/logger/dist/cjs/index.d.ts": {
+        "version": "c3ac0cf5ca437daf28c580e2c8797b9d714585acac0337d80f7af2aa7d31c46e",
+        "signature": "c3ac0cf5ca437daf28c580e2c8797b9d714585acac0337d80f7af2aa7d31c46e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/utils/dist/cjs/caip.d.ts": {
+        "version": "12a3df9610f1517f08ad2140462c87e6fee08b41596c91a32758671674c4d348",
+        "signature": "12a3df9610f1517f08ad2140462c87e6fee08b41596c91a32758671674c4d348",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/utils/dist/cjs/crypto.d.ts": {
+        "version": "41b069555e87bc6332344837ee88700e9bab23e254ce794765e58ea74d0e157a",
+        "signature": "41b069555e87bc6332344837ee88700e9bab23e254ce794765e58ea74d0e157a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/utils/dist/cjs/error.d.ts": {
+        "version": "7101198e00739440058f5af45c62a9d0dda846492149f8a8e2e4153d21a19f9e",
+        "signature": "7101198e00739440058f5af45c62a9d0dda846492149f8a8e2e4153d21a19f9e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/utils/dist/cjs/misc.d.ts": {
+        "version": "53ad27c90104107a6ecb8cf2951c98ffea67b00b54689ce998f240cfffab5d10",
+        "signature": "53ad27c90104107a6ecb8cf2951c98ffea67b00b54689ce998f240cfffab5d10",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/relay-api/dist/cjs/types.d.ts": {
+        "version": "a59653bdd015d176a324d8beb2adbe0693d08539126d254d32b5aed8a68b5b71",
+        "signature": "a59653bdd015d176a324d8beb2adbe0693d08539126d254d32b5aed8a68b5b71",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/relay-api/dist/cjs/parsers.d.ts": {
+        "version": "cc703e7df0457b35086d815d6ff33cd3452317d7a8d7f152597f8dbc6459c5f9",
+        "signature": "cc703e7df0457b35086d815d6ff33cd3452317d7a8d7f152597f8dbc6459c5f9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/relay-api/dist/cjs/jsonrpc.d.ts": {
+        "version": "e24b93132bafb120fa11f2454152834abfe47179a2dd96abdbbc57734ed6472b",
+        "signature": "e24b93132bafb120fa11f2454152834abfe47179a2dd96abdbbc57734ed6472b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/relay-api/dist/cjs/validators.d.ts": {
+        "version": "82bd382cdf173bc58e91d1e25c7acf91ff443983e5c68978082ad5f2877f9af9",
+        "signature": "82bd382cdf173bc58e91d1e25c7acf91ff443983e5c68978082ad5f2877f9af9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/relay-api/dist/cjs/index.d.ts": {
+        "version": "f488ac0001e44c0038e04b5134ff153e6bd666e2eba11bb884543a708be88a95",
+        "signature": "f488ac0001e44c0038e04b5134ff153e6bd666e2eba11bb884543a708be88a95",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/utils/dist/cjs/relay.d.ts": {
+        "version": "7e64b7651592e3e8d920ac88d03d39bccc9f4e93d31353286273f6cea5024a81",
+        "signature": "7e64b7651592e3e8d920ac88d03d39bccc9f4e93d31353286273f6cea5024a81",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/utils/dist/cjs/uri.d.ts": {
+        "version": "37487da3a269fcebd33f3f8d1d833fc9bf68fe50e7cc6a6aa4eee536442d5579",
+        "signature": "37487da3a269fcebd33f3f8d1d833fc9bf68fe50e7cc6a6aa4eee536442d5579",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/utils/dist/cjs/validators.d.ts": {
+        "version": "0260003fc35bce948692be9c6c5fd58185d4da080753e6e78ea709ab616326a1",
+        "signature": "0260003fc35bce948692be9c6c5fd58185d4da080753e6e78ea709ab616326a1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/utils/dist/cjs/namespaces.d.ts": {
+        "version": "26f88ba3d8836486c6dc4f90adae704b71d86b771e735eb05f6c3e486f4bfe43",
+        "signature": "26f88ba3d8836486c6dc4f90adae704b71d86b771e735eb05f6c3e486f4bfe43",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/utils/dist/cjs/index.d.ts": {
+        "version": "fd03d9b85a7e6e7249aeaf44122a07bd65251fe87bd3b9b98f82a5def6ddb062",
+        "signature": "fd03d9b85a7e6e7249aeaf44122a07bd65251fe87bd3b9b98f82a5def6ddb062",
+        "affectsGlobalScope": false
+      },
+      "../src/constants/client.ts": {
+        "version": "04ba1ed63bc05b9deb8687be0f31eed2e335a9c5d2c35fa0f646e54dd00647e2",
+        "signature": "ba6201a397c1e7f51ccb27303728ceead8c9ad5b29d2bad3bcb2ed6a4574ad38",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/time/dist/cjs/utils/delay.d.ts": {
+        "version": "1fbc0aa2bf8e019b2aae8567022e7b55f59b144714d6d1aa6c96b8acf15151a8",
+        "signature": "1fbc0aa2bf8e019b2aae8567022e7b55f59b144714d6d1aa6c96b8acf15151a8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/time/dist/cjs/utils/convert.d.ts": {
+        "version": "10fa6a67f237e9d803110d9f7b29b5edded4adb47809ea3d4355a6d3b644f978",
+        "signature": "10fa6a67f237e9d803110d9f7b29b5edded4adb47809ea3d4355a6d3b644f978",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/time/dist/cjs/utils/index.d.ts": {
+        "version": "24766e27ffabe6d258cfc54643f841782672a0e63e1d912ba23138deaf40e401",
+        "signature": "24766e27ffabe6d258cfc54643f841782672a0e63e1d912ba23138deaf40e401",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/time/dist/cjs/types/watch.d.ts": {
+        "version": "b76f79b98bd953ee71bba656b761f4ba26034ff3f8687c7c65edfc2d9604670f",
+        "signature": "b76f79b98bd953ee71bba656b761f4ba26034ff3f8687c7c65edfc2d9604670f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/time/dist/cjs/types/index.d.ts": {
+        "version": "d9548e5e333b64e6da237002a469401735722ea45caf86bff02db69213e96e31",
+        "signature": "d9548e5e333b64e6da237002a469401735722ea45caf86bff02db69213e96e31",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/time/dist/cjs/watch.d.ts": {
+        "version": "66682da81646c807fbbb0999fc6d49ad41d10a32880b5803a7dea07fa251d1b9",
+        "signature": "66682da81646c807fbbb0999fc6d49ad41d10a32880b5803a7dea07fa251d1b9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/time/dist/cjs/constants/misc.d.ts": {
+        "version": "7902c9ca40697c65549f9a41ab8cd711eab57143ac0d6202af73c18bcd63ca4c",
+        "signature": "7902c9ca40697c65549f9a41ab8cd711eab57143ac0d6202af73c18bcd63ca4c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/time/dist/cjs/constants/time.d.ts": {
+        "version": "d6536cdf16f68971c9a7f20bc2c353e0655bc3ac6ee742ec9d6da8b48cb89aa9",
+        "signature": "d6536cdf16f68971c9a7f20bc2c353e0655bc3ac6ee742ec9d6da8b48cb89aa9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/time/dist/cjs/constants/index.d.ts": {
+        "version": "beea0bd57334b5d3f296eb255a99d6bb4c081faed7b09b8c5d2d7d3666ecb26c",
+        "signature": "beea0bd57334b5d3f296eb255a99d6bb4c081faed7b09b8c5d2d7d3666ecb26c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@walletconnect/time/dist/cjs/index.d.ts": {
+        "version": "d15bc6928c895f44e02a86f60c0e72d6d09ba7812d5ace831dc7f6c2600317d0",
+        "signature": "d15bc6928c895f44e02a86f60c0e72d6d09ba7812d5ace831dc7f6c2600317d0",
+        "affectsGlobalScope": false
+      },
+      "../src/constants/expirer.ts": {
+        "version": "aec429f5f3198b25c675c41fa27abf637755ad45b64dca163954d463d5595699",
+        "signature": "4fb8c967e2c3f9b0a3788b003e17b6575b26d135106042a0b52b64e2520975fa",
+        "affectsGlobalScope": false
+      },
+      "../src/constants/history.ts": {
+        "version": "3a152c60b80bf04a6f504bb1479dde0ed50eba9b933e3469403016eff791e929",
+        "signature": "e13f18906ed5233cb65a0e9b16f6affa3d312d7aa794aec44475f355d3bced5d",
+        "affectsGlobalScope": false
+      },
+      "../src/constants/pairing.ts": {
+        "version": "b0deba7025ca0ab82d4e748ef25f9221b87536512a07fdeb9c5a32fe86d2384c",
+        "signature": "0533a0d4605fae8020eb033385ee0f5e2854ded3c31f998fc71a767e8ad4558e",
+        "affectsGlobalScope": false
+      },
+      "../src/constants/proposal.ts": {
+        "version": "078e142a845c23ee4385096425473884b8b321a503896e6aae760e9de6cece53",
+        "signature": "d7a62637ba794aa08b92d3d405a56134655d038e8ab036d1f83ac76513d04dd8",
+        "affectsGlobalScope": false
+      },
+      "../src/constants/session.ts": {
+        "version": "b3ad14122d7bf2783b4f36ba0cc447277132c7add482ac0f06e81513ae9e9db2",
+        "signature": "17e7aba688c031af866e2a8faf2fe8dd8e26d45ca7ebda630df3a19312425540",
+        "affectsGlobalScope": false
+      },
+      "../src/constants/engine.ts": {
+        "version": "0ec218628352bde7112932f95ce2d215bd7f02b4bdf796147db5b944d980ea70",
+        "signature": "8937128fd65f887a082b93806c08c7a0d64c7f8939852d485bbdd744b2476ad9",
+        "affectsGlobalScope": false
+      },
+      "../src/constants/index.ts": {
+        "version": "d1d8164373a98ea43fbe85f89ecdb7d0633f1789f1f1053a4d227aa02e8f722a",
+        "signature": "7bcce4bd26686d8f61488aab2c00fcc50b9108dee1612540997973fde133bb3e",
+        "affectsGlobalScope": false
+      },
+      "../src/controllers/engine.ts": {
+        "version": "626221a85a8570231d33011fae017e2832e7a079acf1b5246d55f60cf868bd32",
+        "signature": "42945cfd224445d9188225ddf82136e7b0c160f9650198a13a63bd831a1097b7",
+        "affectsGlobalScope": false
+      },
+      "../src/controllers/expirer.ts": {
+        "version": "c88891487efb11d563acd26f4dbf3029c56c0080d3d5c821d229973bbf44004d",
+        "signature": "6e65e3362fd887203b616c1f702a09b924d2558213ba903d629ae95d2fe089c2",
+        "affectsGlobalScope": false
+      },
+      "../src/controllers/history.ts": {
+        "version": "633eb45c9b7013910804f345e95814e1ecc88c57cb502defda6fa52f49634e80",
+        "signature": "bfef3364aa75c86ecfe8c431cb205504464d89d8a55c9e01c8de47579cb45014",
+        "affectsGlobalScope": false
+      },
+      "../src/controllers/pairing.ts": {
+        "version": "67c4c03d3b64c969be214a677ca87df5b8f1d4888ca03439f1772e19063acaa0",
+        "signature": "1bbc47b491a5d5785aec8c38cae164614670a39ed6e5934d417ce4d0b95759e5",
+        "affectsGlobalScope": false
+      },
+      "../src/controllers/proposal.ts": {
+        "version": "19a4d6d33b24f9f42a8f9af2eaa0762c37423e9cbc22afe02985d42cf3b69683",
+        "signature": "ffb7bab6ced292845d233bd068f168fdcfea9e69a01c9daa16ea0d8d50aa4346",
+        "affectsGlobalScope": false
+      },
+      "../src/controllers/session.ts": {
+        "version": "98e1f308350e487cb91d7b365b86eef0e92035711fd87185cfaf367c74d9e29f",
+        "signature": "8976a88dc8398c62185d5aa7f0b15cb18c76094dee2e74045549544b54fbf4b3",
+        "affectsGlobalScope": false
+      },
+      "../src/controllers/index.ts": {
+        "version": "b18712ab7d1a7dc28af2af2053c0b76724ffe8e7ae9d1aa37013108206ae161d",
+        "signature": "abca879cedaf4ee92d8e93c8cfacfc24c93b52366029f4c6fee2ea639f1e0222",
+        "affectsGlobalScope": false
+      },
+      "../src/client.ts": {
+        "version": "9cdf9201bb233cfe5fd2ca6370986665fbdd947d28b004e40c554e2376a24197",
+        "signature": "d9799e52dc7c64b95b236d308f1365eab7fe7d18b8c8e4953eb1601885c1ffc1",
+        "affectsGlobalScope": false
+      },
+      "../src/index.ts": {
+        "version": "6ab7fec67af5fa6bc687751f2c281cc659033df70eea09f76417c9677ffa5d3a",
+        "signature": "975544fa0beca7f8e45d8e6e9899c1c6f269963959a25c45ad0debdde6869ee6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/chai/index.d.ts": {
+        "version": "3a15910b7f45dfc393f010ee8f913580b08d65752800fc48147ea13445acd5f7",
+        "signature": "3a15910b7f45dfc393f010ee8f913580b08d65752800fc48147ea13445acd5f7",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/chai-as-promised/index.d.ts": {
+        "version": "63e2182615c513e89bb8a3e749d08f7c379e86490fcdbf6d35f2c14b3507a6e8",
+        "signature": "63e2182615c513e89bb8a3e749d08f7c379e86490fcdbf6d35f2c14b3507a6e8",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/eslint-visitor-keys/index.d.ts": {
+        "version": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "signature": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/jest/index.d.ts": {
+        "version": "ff4413a4d9e336780b1862b9f51424873b53d256d07eaa3e1398f4d118972ff9",
+        "signature": "ff4413a4d9e336780b1862b9f51424873b53d256d07eaa3e1398f4d118972ff9",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/json-schema/index.d.ts": {
+        "version": "f3e604694b624fa3f83f6684185452992088f5efb2cf136b62474aa106d6f1b6",
+        "signature": "f3e604694b624fa3f83f6684185452992088f5efb2cf136b62474aa106d6f1b6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/json5/index.d.ts": {
+        "version": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
+        "signature": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/mocha/index.d.ts": {
+        "version": "5f186a758a616c107c70e8918db4630d063bd782f22e6e0b17573b125765b40b",
+        "signature": "5f186a758a616c107c70e8918db4630d063bd782f22e6e0b17573b125765b40b",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/sinon/index.d.ts": {
+        "version": "90f3b8da242666e6ce48c11ceb346bd021550f9509ee09663bd24a6d0da9b5c8",
+        "signature": "90f3b8da242666e6ce48c11ceb346bd021550f9509ee09663bd24a6d0da9b5c8",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "outDir": "./esm",
+      "allowJs": false,
+      "allowSyntheticDefaultImports": true,
+      "alwaysStrict": true,
+      "composite": true,
+      "declaration": true,
+      "declarationMap": true,
+      "downlevelIteration": true,
+      "emitDecoratorMetadata": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "forceConsistentCasingInFileNames": true,
+      "importHelpers": true,
+      "lib": [
+        "lib.es2019.d.ts",
+        "lib.dom.d.ts",
+        "lib.es2018.asynciterable.d.ts"
+      ],
+      "module": 99,
+      "moduleResolution": 2,
+      "noFallthroughCasesInSwitch": true,
+      "noImplicitAny": true,
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "noLib": false,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "preserveSymlinks": true,
+      "removeComments": true,
+      "resolveJsonModule": true,
+      "skipLibCheck": true,
+      "sourceMap": true,
+      "strict": true,
+      "strictFunctionTypes": true,
+      "strictNullChecks": true,
+      "strictPropertyInitialization": true,
+      "suppressImplicitAnyIndexErrors": true,
+      "target": 4,
+      "rootDir": "../src",
+      "project": "../tsconfig.esm.json",
+      "configFilePath": "../tsconfig.esm.json"
+    },
+    "referencedMap": {
+      "../node_modules/@types/chai-as-promised/index.d.ts": [
+        "../node_modules/@types/chai/index.d.ts"
+      ],
+      "../node_modules/@types/node/assert.d.ts": [
+        "../node_modules/@types/node/assert.d.ts"
+      ],
+      "../node_modules/@types/node/async_hooks.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "../node_modules/@types/node/buffer.d.ts": [
+        "../node_modules/@types/node/buffer.d.ts",
+        "../node_modules/@types/node/crypto.d.ts"
+      ],
+      "../node_modules/@types/node/child_process.d.ts": [
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/cluster.d.ts": [
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/cluster.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/console.d.ts": [
+        "../node_modules/@types/node/console.d.ts",
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@types/node/constants.d.ts": [
+        "../node_modules/@types/node/constants.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/os.d.ts"
+      ],
+      "../node_modules/@types/node/crypto.d.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/dgram.d.ts": [
+        "../node_modules/@types/node/dgram.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/dns.d.ts": [
+        "../node_modules/@types/node/dns.d.ts"
+      ],
+      "../node_modules/@types/node/domain.d.ts": [
+        "../node_modules/@types/node/domain.d.ts",
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/events.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/fs.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/fs/promises.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts"
+      ],
+      "../node_modules/@types/node/http.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/http2.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/https.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/index.d.ts": [
+        "../node_modules/@types/node/assert.d.ts",
+        "../node_modules/@types/node/async_hooks.d.ts",
+        "../node_modules/@types/node/buffer.d.ts",
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/cluster.d.ts",
+        "../node_modules/@types/node/console.d.ts",
+        "../node_modules/@types/node/constants.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dgram.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/domain.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/globals.d.ts",
+        "../node_modules/@types/node/globals.global.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@types/node/inspector.d.ts",
+        "../node_modules/@types/node/module.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/os.d.ts",
+        "../node_modules/@types/node/path.d.ts",
+        "../node_modules/@types/node/perf_hooks.d.ts",
+        "../node_modules/@types/node/process.d.ts",
+        "../node_modules/@types/node/punycode.d.ts",
+        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/repl.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/string_decoder.d.ts",
+        "../node_modules/@types/node/timers.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/trace_events.d.ts",
+        "../node_modules/@types/node/tty.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/v8.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/wasi.d.ts",
+        "../node_modules/@types/node/worker_threads.d.ts",
+        "../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../node_modules/@types/node/inspector.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/inspector.d.ts"
+      ],
+      "../node_modules/@types/node/module.d.ts": [
+        "../node_modules/@types/node/module.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/net.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/os.d.ts": [
+        "../node_modules/@types/node/os.d.ts"
+      ],
+      "../node_modules/@types/node/path.d.ts": [
+        "../node_modules/@types/node/path.d.ts"
+      ],
+      "../node_modules/@types/node/perf_hooks.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts",
+        "../node_modules/@types/node/perf_hooks.d.ts"
+      ],
+      "../node_modules/@types/node/process.d.ts": [
+        "../node_modules/@types/node/process.d.ts",
+        "../node_modules/@types/node/tty.d.ts"
+      ],
+      "../node_modules/@types/node/punycode.d.ts": [
+        "../node_modules/@types/node/punycode.d.ts"
+      ],
+      "../node_modules/@types/node/querystring.d.ts": [
+        "../node_modules/@types/node/querystring.d.ts"
+      ],
+      "../node_modules/@types/node/readline.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/readline.d.ts"
+      ],
+      "../node_modules/@types/node/repl.d.ts": [
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/repl.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/stream.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/string_decoder.d.ts": [
+        "../node_modules/@types/node/string_decoder.d.ts"
+      ],
+      "../node_modules/@types/node/timers.d.ts": [
+        "../node_modules/@types/node/timers.d.ts"
+      ],
+      "../node_modules/@types/node/tls.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts"
+      ],
+      "../node_modules/@types/node/trace_events.d.ts": [
+        "../node_modules/@types/node/trace_events.d.ts"
+      ],
+      "../node_modules/@types/node/tty.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/tty.d.ts"
+      ],
+      "../node_modules/@types/node/url.d.ts": [
+        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/util.d.ts": [
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@types/node/v8.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/v8.d.ts"
+      ],
+      "../node_modules/@types/node/vm.d.ts": [
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/wasi.d.ts": [
+        "../node_modules/@types/node/wasi.d.ts"
+      ],
+      "../node_modules/@types/node/worker_threads.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/worker_threads.d.ts"
+      ],
+      "../node_modules/@types/node/zlib.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../node_modules/@types/pino-pretty/index.d.ts": [
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/pino/index.d.ts"
+      ],
+      "../node_modules/@types/pino-std-serializers/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/pino/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/pino-pretty/index.d.ts",
+        "../node_modules/@types/pino-std-serializers/index.d.ts",
+        "../node_modules/sonic-boom/types/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/constants/index.d.ts": [
+        "../node_modules/@walletconnect/core/dist/cjs/constants/core.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/crypto.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/keychain.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/messages.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/publisher.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/relayer.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/store.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/subscriber.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/crypto.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/index.d.ts": [
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/crypto.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/keychain.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/messages.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/relayer.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/store.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/subscriber.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/keychain.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/messages.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/relayer.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/store.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/subscriber.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/topicmap.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/topicmap.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/core.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/core/dist/cjs/constants/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/environment/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/environment/dist/cjs/crypto.d.ts",
+        "../node_modules/@walletconnect/environment/dist/cjs/env.d.ts"
+      ],
+      "../node_modules/@walletconnect/events/dist/cjs/events.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/events/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/events/dist/cjs/events.d.ts"
+      ],
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/constants/index.d.ts": [
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/constants/heartbeat.d.ts"
+      ],
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/heartbeat.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/types/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/constants/index.d.ts",
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/heartbeat.d.ts",
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/types/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/types/heartbeat.d.ts": [
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/types/index.d.ts": [
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/types/heartbeat.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/jsonrpc.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/misc.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/provider.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/validator.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/misc.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/provider.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/jsonrpc.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/misc.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/env.d.ts": [
+        "../node_modules/@walletconnect/environment/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/error.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/format.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/constants.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/env.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/error.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/format.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/routing.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/url.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/validators.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/validators.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/node-js/index.d.ts",
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/node-js/index.d.ts": [
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/index.d.ts": [
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/types.d.ts",
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/utils.d.ts"
+      ],
+      "../node_modules/@walletconnect/logger/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/logger/dist/cjs/constants.d.ts",
+        "../node_modules/@walletconnect/logger/dist/cjs/utils.d.ts"
+      ],
+      "../node_modules/@walletconnect/logger/dist/cjs/utils.d.ts": [
+        "../node_modules/@types/pino/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/relay-api/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/relay-api/dist/cjs/jsonrpc.d.ts",
+        "../node_modules/@walletconnect/relay-api/dist/cjs/parsers.d.ts",
+        "../node_modules/@walletconnect/relay-api/dist/cjs/types.d.ts",
+        "../node_modules/@walletconnect/relay-api/dist/cjs/validators.d.ts"
+      ],
+      "../node_modules/@walletconnect/relay-api/dist/cjs/jsonrpc.d.ts": [
+        "../node_modules/@walletconnect/relay-api/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/relay-api/dist/cjs/parsers.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/relay-api/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/relay-api/dist/cjs/validators.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/relay-api/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/time/dist/cjs/constants/index.d.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/constants/misc.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/constants/time.d.ts"
+      ],
+      "../node_modules/@walletconnect/time/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/constants/index.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/types/index.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/utils/index.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/watch.d.ts"
+      ],
+      "../node_modules/@walletconnect/time/dist/cjs/types/index.d.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/types/watch.d.ts"
+      ],
+      "../node_modules/@walletconnect/time/dist/cjs/utils/index.d.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/utils/convert.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/utils/delay.d.ts"
+      ],
+      "../node_modules/@walletconnect/time/dist/cjs/watch.d.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/types/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/crypto.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/keychain.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/crypto.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/keychain.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/history.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/index.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/crypto.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/history.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/keychain.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/messages.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/publisher.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/subscriber.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/keychain.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/messages.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/publisher.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/messages.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/publisher.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/subscriber.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/subscriber.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/core/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/history.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/engine.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/expirer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/pairing.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/engine.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/jsonrpc.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/pairing.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/expirer.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/index.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/engine.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/expirer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/jsonrpc.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/pairing.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/jsonrpc.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/pairing.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/caip.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/crypto.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/error.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/utils/dist/cjs/caip.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/crypto.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/error.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/misc.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/namespaces.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/relay.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/uri.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/validators.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/misc.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/namespaces.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/relay.d.ts": [
+        "../node_modules/@walletconnect/relay-api/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/uri.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/validators.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/sonic-boom/types/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../src/client.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/logger/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/index.d.ts",
+        "../src/constants/index.ts",
+        "../src/controllers/index.ts"
+      ],
+      "../src/constants/client.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../src/constants/expirer.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/index.d.ts"
+      ],
+      "../src/constants/index.ts": [
+        "../src/constants/client.ts",
+        "../src/constants/engine.ts",
+        "../src/constants/expirer.ts",
+        "../src/constants/history.ts",
+        "../src/constants/pairing.ts",
+        "../src/constants/proposal.ts",
+        "../src/constants/session.ts"
+      ],
+      "../src/constants/pairing.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/index.d.ts"
+      ],
+      "../src/constants/proposal.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/index.d.ts"
+      ],
+      "../src/constants/session.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/index.d.ts"
+      ],
+      "../src/controllers/engine.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/index.d.ts",
+        "../src/constants/index.ts"
+      ],
+      "../src/controllers/expirer.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/logger/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/index.d.ts",
+        "../src/constants/index.ts"
+      ],
+      "../src/controllers/history.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/logger/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/index.d.ts",
+        "../src/constants/index.ts"
+      ],
+      "../src/controllers/index.ts": [
+        "../src/controllers/engine.ts",
+        "../src/controllers/expirer.ts",
+        "../src/controllers/history.ts",
+        "../src/controllers/pairing.ts",
+        "../src/controllers/proposal.ts",
+        "../src/controllers/session.ts"
+      ],
+      "../src/controllers/pairing.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts",
+        "../src/constants/index.ts"
+      ],
+      "../src/controllers/proposal.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts",
+        "../src/constants/index.ts"
+      ],
+      "../src/controllers/session.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts",
+        "../src/constants/index.ts"
+      ],
+      "../src/index.ts": [
+        "../src/client.ts",
+        "../src/constants/index.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../node_modules/@types/chai-as-promised/index.d.ts": [
+        "../node_modules/@types/chai/index.d.ts"
+      ],
+      "../node_modules/@types/node/assert.d.ts": [
+        "../node_modules/@types/node/assert.d.ts"
+      ],
+      "../node_modules/@types/node/async_hooks.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "../node_modules/@types/node/buffer.d.ts": [
+        "../node_modules/@types/node/buffer.d.ts",
+        "../node_modules/@types/node/crypto.d.ts"
+      ],
+      "../node_modules/@types/node/child_process.d.ts": [
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/cluster.d.ts": [
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/cluster.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/console.d.ts": [
+        "../node_modules/@types/node/console.d.ts",
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@types/node/constants.d.ts": [
+        "../node_modules/@types/node/constants.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/os.d.ts"
+      ],
+      "../node_modules/@types/node/crypto.d.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/dgram.d.ts": [
+        "../node_modules/@types/node/dgram.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/dns.d.ts": [
+        "../node_modules/@types/node/dns.d.ts"
+      ],
+      "../node_modules/@types/node/domain.d.ts": [
+        "../node_modules/@types/node/domain.d.ts",
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/events.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/fs.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/fs/promises.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts"
+      ],
+      "../node_modules/@types/node/http.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/http2.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/https.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/index.d.ts": [
+        "../node_modules/@types/node/assert.d.ts",
+        "../node_modules/@types/node/async_hooks.d.ts",
+        "../node_modules/@types/node/buffer.d.ts",
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/cluster.d.ts",
+        "../node_modules/@types/node/console.d.ts",
+        "../node_modules/@types/node/constants.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dgram.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/domain.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/globals.d.ts",
+        "../node_modules/@types/node/globals.global.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@types/node/inspector.d.ts",
+        "../node_modules/@types/node/module.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/os.d.ts",
+        "../node_modules/@types/node/path.d.ts",
+        "../node_modules/@types/node/perf_hooks.d.ts",
+        "../node_modules/@types/node/process.d.ts",
+        "../node_modules/@types/node/punycode.d.ts",
+        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/repl.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/string_decoder.d.ts",
+        "../node_modules/@types/node/timers.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/trace_events.d.ts",
+        "../node_modules/@types/node/tty.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/v8.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/wasi.d.ts",
+        "../node_modules/@types/node/worker_threads.d.ts",
+        "../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../node_modules/@types/node/inspector.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/inspector.d.ts"
+      ],
+      "../node_modules/@types/node/module.d.ts": [
+        "../node_modules/@types/node/module.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/net.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/os.d.ts": [
+        "../node_modules/@types/node/os.d.ts"
+      ],
+      "../node_modules/@types/node/path.d.ts": [
+        "../node_modules/@types/node/path.d.ts"
+      ],
+      "../node_modules/@types/node/perf_hooks.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts",
+        "../node_modules/@types/node/perf_hooks.d.ts"
+      ],
+      "../node_modules/@types/node/process.d.ts": [
+        "../node_modules/@types/node/process.d.ts",
+        "../node_modules/@types/node/tty.d.ts"
+      ],
+      "../node_modules/@types/node/punycode.d.ts": [
+        "../node_modules/@types/node/punycode.d.ts"
+      ],
+      "../node_modules/@types/node/querystring.d.ts": [
+        "../node_modules/@types/node/querystring.d.ts"
+      ],
+      "../node_modules/@types/node/readline.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/readline.d.ts"
+      ],
+      "../node_modules/@types/node/repl.d.ts": [
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/repl.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/stream.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/string_decoder.d.ts": [
+        "../node_modules/@types/node/string_decoder.d.ts"
+      ],
+      "../node_modules/@types/node/timers.d.ts": [
+        "../node_modules/@types/node/timers.d.ts"
+      ],
+      "../node_modules/@types/node/tls.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts"
+      ],
+      "../node_modules/@types/node/trace_events.d.ts": [
+        "../node_modules/@types/node/trace_events.d.ts"
+      ],
+      "../node_modules/@types/node/tty.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/tty.d.ts"
+      ],
+      "../node_modules/@types/node/url.d.ts": [
+        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/util.d.ts": [
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@types/node/v8.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/v8.d.ts"
+      ],
+      "../node_modules/@types/node/vm.d.ts": [
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/wasi.d.ts": [
+        "../node_modules/@types/node/wasi.d.ts"
+      ],
+      "../node_modules/@types/node/worker_threads.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/worker_threads.d.ts"
+      ],
+      "../node_modules/@types/node/zlib.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../node_modules/@types/pino-pretty/index.d.ts": [
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/pino/index.d.ts"
+      ],
+      "../node_modules/@types/pino-std-serializers/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@types/pino/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/pino-pretty/index.d.ts",
+        "../node_modules/@types/pino-std-serializers/index.d.ts",
+        "../node_modules/sonic-boom/types/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/constants/index.d.ts": [
+        "../node_modules/@walletconnect/core/dist/cjs/constants/core.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/crypto.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/keychain.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/messages.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/publisher.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/relayer.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/store.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/constants/subscriber.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/crypto.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/index.d.ts": [
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/crypto.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/keychain.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/messages.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/relayer.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/store.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/subscriber.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/keychain.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/messages.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/relayer.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/store.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/subscriber.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/topicmap.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/topicmap.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/core.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/core/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/core/dist/cjs/constants/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/controllers/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/environment/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/environment/dist/cjs/crypto.d.ts",
+        "../node_modules/@walletconnect/environment/dist/cjs/env.d.ts"
+      ],
+      "../node_modules/@walletconnect/events/dist/cjs/events.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/events/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/events/dist/cjs/events.d.ts"
+      ],
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/constants/index.d.ts": [
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/constants/heartbeat.d.ts"
+      ],
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/heartbeat.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/types/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/constants/index.d.ts",
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/heartbeat.d.ts",
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/types/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/types/heartbeat.d.ts": [
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/types/index.d.ts": [
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/types/heartbeat.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/jsonrpc.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/misc.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/provider.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/validator.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/misc.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/provider.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/jsonrpc.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/misc.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/env.d.ts": [
+        "../node_modules/@walletconnect/environment/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/error.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/format.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/constants.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/env.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/error.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/format.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/routing.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/url.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/validators.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/validators.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/node-js/index.d.ts",
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/node-js/index.d.ts": [
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/index.d.ts": [
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/types.d.ts",
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/utils.d.ts"
+      ],
+      "../node_modules/@walletconnect/logger/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/logger/dist/cjs/constants.d.ts",
+        "../node_modules/@walletconnect/logger/dist/cjs/utils.d.ts"
+      ],
+      "../node_modules/@walletconnect/logger/dist/cjs/utils.d.ts": [
+        "../node_modules/@types/pino/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/relay-api/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/relay-api/dist/cjs/jsonrpc.d.ts",
+        "../node_modules/@walletconnect/relay-api/dist/cjs/parsers.d.ts",
+        "../node_modules/@walletconnect/relay-api/dist/cjs/types.d.ts",
+        "../node_modules/@walletconnect/relay-api/dist/cjs/validators.d.ts"
+      ],
+      "../node_modules/@walletconnect/relay-api/dist/cjs/jsonrpc.d.ts": [
+        "../node_modules/@walletconnect/relay-api/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/relay-api/dist/cjs/parsers.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/relay-api/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/relay-api/dist/cjs/validators.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/relay-api/dist/cjs/types.d.ts"
+      ],
+      "../node_modules/@walletconnect/time/dist/cjs/constants/index.d.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/constants/misc.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/constants/time.d.ts"
+      ],
+      "../node_modules/@walletconnect/time/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/constants/index.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/types/index.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/utils/index.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/watch.d.ts"
+      ],
+      "../node_modules/@walletconnect/time/dist/cjs/types/index.d.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/types/watch.d.ts"
+      ],
+      "../node_modules/@walletconnect/time/dist/cjs/utils/index.d.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/utils/convert.d.ts",
+        "../node_modules/@walletconnect/time/dist/cjs/utils/delay.d.ts"
+      ],
+      "../node_modules/@walletconnect/time/dist/cjs/watch.d.ts": [
+        "../node_modules/@walletconnect/time/dist/cjs/types/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/heartbeat/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/crypto.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/keychain.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/crypto.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/keychain.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/history.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/index.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/crypto.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/history.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/keychain.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/messages.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/publisher.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/subscriber.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/keychain.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/messages.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/publisher.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/messages.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/publisher.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/subscriber.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/core/subscriber.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/core/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/history.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/engine.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/expirer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/pairing.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/engine.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/jsonrpc.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/pairing.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/expirer.d.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/index.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/engine.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/expirer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/jsonrpc.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/pairing.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/jsonrpc.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/pairing.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts"
+      ],
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/caip.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/crypto.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/error.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/index.d.ts": [
+        "../node_modules/@walletconnect/utils/dist/cjs/caip.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/crypto.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/error.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/misc.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/namespaces.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/relay.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/uri.d.ts",
+        "../node_modules/@walletconnect/utils/dist/cjs/validators.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/misc.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/namespaces.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/relay.d.ts": [
+        "../node_modules/@walletconnect/relay-api/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/uri.d.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/@walletconnect/utils/dist/cjs/validators.d.ts": [
+        "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../node_modules/sonic-boom/types/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts"
+      ],
+      "../src/client.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../src/constants/client.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../src/constants/index.ts": [
+        "../src/constants/client.ts",
+        "../src/constants/engine.ts",
+        "../src/constants/expirer.ts",
+        "../src/constants/history.ts",
+        "../src/constants/pairing.ts",
+        "../src/constants/proposal.ts",
+        "../src/constants/session.ts"
+      ],
+      "../src/controllers/engine.ts": [
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../src/controllers/expirer.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../src/controllers/history.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../src/controllers/index.ts": [
+        "../src/controllers/engine.ts",
+        "../src/controllers/expirer.ts",
+        "../src/controllers/history.ts",
+        "../src/controllers/pairing.ts",
+        "../src/controllers/proposal.ts",
+        "../src/controllers/session.ts"
+      ],
+      "../src/controllers/pairing.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../src/controllers/proposal.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../src/controllers/session.ts": [
+        "../node_modules/@types/pino/index.d.ts",
+        "../node_modules/@walletconnect/core/dist/cjs/index.d.ts",
+        "../node_modules/@walletconnect/types/dist/cjs/index.d.ts"
+      ],
+      "../src/index.ts": [
+        "../src/client.ts",
+        "../src/constants/index.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../node_modules/@types/chai-as-promised/index.d.ts",
+      "../node_modules/@types/chai/index.d.ts",
+      "../node_modules/@types/eslint-visitor-keys/index.d.ts",
+      "../node_modules/@types/jest/index.d.ts",
+      "../node_modules/@types/json-schema/index.d.ts",
+      "../node_modules/@types/json5/index.d.ts",
+      "../node_modules/@types/mocha/index.d.ts",
+      "../node_modules/@types/node/assert.d.ts",
+      "../node_modules/@types/node/async_hooks.d.ts",
+      "../node_modules/@types/node/buffer.d.ts",
+      "../node_modules/@types/node/child_process.d.ts",
+      "../node_modules/@types/node/cluster.d.ts",
+      "../node_modules/@types/node/console.d.ts",
+      "../node_modules/@types/node/constants.d.ts",
+      "../node_modules/@types/node/crypto.d.ts",
+      "../node_modules/@types/node/dgram.d.ts",
+      "../node_modules/@types/node/dns.d.ts",
+      "../node_modules/@types/node/domain.d.ts",
+      "../node_modules/@types/node/events.d.ts",
+      "../node_modules/@types/node/fs.d.ts",
+      "../node_modules/@types/node/fs/promises.d.ts",
+      "../node_modules/@types/node/globals.d.ts",
+      "../node_modules/@types/node/globals.global.d.ts",
+      "../node_modules/@types/node/http.d.ts",
+      "../node_modules/@types/node/http2.d.ts",
+      "../node_modules/@types/node/https.d.ts",
+      "../node_modules/@types/node/index.d.ts",
+      "../node_modules/@types/node/inspector.d.ts",
+      "../node_modules/@types/node/module.d.ts",
+      "../node_modules/@types/node/net.d.ts",
+      "../node_modules/@types/node/os.d.ts",
+      "../node_modules/@types/node/path.d.ts",
+      "../node_modules/@types/node/perf_hooks.d.ts",
+      "../node_modules/@types/node/process.d.ts",
+      "../node_modules/@types/node/punycode.d.ts",
+      "../node_modules/@types/node/querystring.d.ts",
+      "../node_modules/@types/node/readline.d.ts",
+      "../node_modules/@types/node/repl.d.ts",
+      "../node_modules/@types/node/stream.d.ts",
+      "../node_modules/@types/node/string_decoder.d.ts",
+      "../node_modules/@types/node/timers.d.ts",
+      "../node_modules/@types/node/tls.d.ts",
+      "../node_modules/@types/node/trace_events.d.ts",
+      "../node_modules/@types/node/tty.d.ts",
+      "../node_modules/@types/node/url.d.ts",
+      "../node_modules/@types/node/util.d.ts",
+      "../node_modules/@types/node/v8.d.ts",
+      "../node_modules/@types/node/vm.d.ts",
+      "../node_modules/@types/node/wasi.d.ts",
+      "../node_modules/@types/node/worker_threads.d.ts",
+      "../node_modules/@types/node/zlib.d.ts",
+      "../node_modules/@types/pino-pretty/index.d.ts",
+      "../node_modules/@types/pino-std-serializers/index.d.ts",
+      "../node_modules/@types/pino/index.d.ts",
+      "../node_modules/@types/sinon/index.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/constants/core.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/constants/crypto.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/constants/index.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/constants/keychain.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/constants/messages.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/constants/publisher.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/constants/relayer.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/constants/store.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/constants/subscriber.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/crypto.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/index.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/keychain.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/messages.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/relayer.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/store.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/subscriber.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/controllers/topicmap.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/core.d.ts",
+      "../node_modules/@walletconnect/core/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/environment/dist/cjs/crypto.d.ts",
+      "../node_modules/@walletconnect/environment/dist/cjs/env.d.ts",
+      "../node_modules/@walletconnect/environment/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/events/dist/cjs/events.d.ts",
+      "../node_modules/@walletconnect/events/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/constants/heartbeat.d.ts",
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/constants/index.d.ts",
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/heartbeat.d.ts",
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/types/heartbeat.d.ts",
+      "../node_modules/@walletconnect/heartbeat/dist/cjs/types/index.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/jsonrpc.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/misc.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/provider.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-types/dist/cjs/validator.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/constants.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/env.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/error.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/format.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/routing.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/types.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/url.d.ts",
+      "../node_modules/@walletconnect/jsonrpc-utils/dist/cjs/validators.d.ts",
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/node-js/index.d.ts",
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/index.d.ts",
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/types.d.ts",
+      "../node_modules/@walletconnect/keyvaluestorage/dist/cjs/shared/utils.d.ts",
+      "../node_modules/@walletconnect/logger/dist/cjs/constants.d.ts",
+      "../node_modules/@walletconnect/logger/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/logger/dist/cjs/utils.d.ts",
+      "../node_modules/@walletconnect/relay-api/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/relay-api/dist/cjs/jsonrpc.d.ts",
+      "../node_modules/@walletconnect/relay-api/dist/cjs/parsers.d.ts",
+      "../node_modules/@walletconnect/relay-api/dist/cjs/types.d.ts",
+      "../node_modules/@walletconnect/relay-api/dist/cjs/validators.d.ts",
+      "../node_modules/@walletconnect/time/dist/cjs/constants/index.d.ts",
+      "../node_modules/@walletconnect/time/dist/cjs/constants/misc.d.ts",
+      "../node_modules/@walletconnect/time/dist/cjs/constants/time.d.ts",
+      "../node_modules/@walletconnect/time/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/time/dist/cjs/types/index.d.ts",
+      "../node_modules/@walletconnect/time/dist/cjs/types/watch.d.ts",
+      "../node_modules/@walletconnect/time/dist/cjs/utils/convert.d.ts",
+      "../node_modules/@walletconnect/time/dist/cjs/utils/delay.d.ts",
+      "../node_modules/@walletconnect/time/dist/cjs/utils/index.d.ts",
+      "../node_modules/@walletconnect/time/dist/cjs/watch.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/core/core.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/core/crypto.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/core/history.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/core/index.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/core/keychain.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/core/messages.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/core/publisher.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/core/relayer.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/core/store.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/core/subscriber.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/client.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/engine.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/expirer.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/index.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/jsonrpc.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/pairing.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/proposal.d.ts",
+      "../node_modules/@walletconnect/types/dist/cjs/sign-client/session.d.ts",
+      "../node_modules/@walletconnect/utils/dist/cjs/caip.d.ts",
+      "../node_modules/@walletconnect/utils/dist/cjs/crypto.d.ts",
+      "../node_modules/@walletconnect/utils/dist/cjs/error.d.ts",
+      "../node_modules/@walletconnect/utils/dist/cjs/index.d.ts",
+      "../node_modules/@walletconnect/utils/dist/cjs/misc.d.ts",
+      "../node_modules/@walletconnect/utils/dist/cjs/namespaces.d.ts",
+      "../node_modules/@walletconnect/utils/dist/cjs/relay.d.ts",
+      "../node_modules/@walletconnect/utils/dist/cjs/uri.d.ts",
+      "../node_modules/@walletconnect/utils/dist/cjs/validators.d.ts",
+      "../node_modules/sonic-boom/types/index.d.ts",
+      "../node_modules/tslib/tslib.d.ts",
+      "../node_modules/typescript/lib/lib.dom.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "../src/client.ts",
+      "../src/constants/client.ts",
+      "../src/constants/engine.ts",
+      "../src/constants/expirer.ts",
+      "../src/constants/history.ts",
+      "../src/constants/index.ts",
+      "../src/constants/pairing.ts",
+      "../src/constants/proposal.ts",
+      "../src/constants/session.ts",
+      "../src/controllers/engine.ts",
+      "../src/controllers/expirer.ts",
+      "../src/controllers/history.ts",
+      "../src/controllers/index.ts",
+      "../src/controllers/pairing.ts",
+      "../src/controllers/proposal.ts",
+      "../src/controllers/session.ts",
+      "../src/index.ts"
+    ]
+  },
+  "version": "3.9.10"
+}

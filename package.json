@@ -37,7 +37,7 @@
     "@walletconnect/heartbeat": "^1.0.0",
     "@walletconnect/jsonrpc-provider": "^1.0.3",
     "@walletconnect/jsonrpc-utils": "^1.0.1",
-    "@walletconnect/jsonrpc-ws-connection": "git+https://github.com/lautaro-osacar/jsonrpc-ws-connection.git",
+    "@walletconnect/jsonrpc-ws-connection": "git+https://github.com/lautaro-osacar/jsonrpc-ws-connection.git#maxListeners",
     "@walletconnect/keyvaluestorage": "^1.0.0",
     "@walletconnect/logger": "^1.0.0",
     "@walletconnect/relay-api": "^1.0.2",
